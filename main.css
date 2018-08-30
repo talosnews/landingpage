@@ -1,0 +1,103 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+br {
+	line-height: 4em;
+}
+
+hr {
+	width: 80%;
+	margin: 0 auto;
+}
+
+input {
+	width: 40%;
+	vertical-align: middle;
+	height: 1.5em;
+	font-weight: 300;
+	margin-right: 10px;
+	padding: 10px;
+	margin-top: 7.5px;
+}
+
+button {
+	margin-top: 7.5px;
+	vertical-align: middle;
+}
+
+.butt {
+	margin-bottom: 1em;
+	font-size: 1.25em;
+}
+
+
+.title {
+	width: 100%;
+	min-height: 100%;
+	background-size: cover;
+	text-align: center;
+}
+
+.titlehome {
+	background-image: url(bgnewspaper.jpg);
+	color: white;
+}
+
+.titleabout {
+	background-image: url(/static/img/machinery.jpeg);
+	color: white;
+}
+
+.titlepricing {
+	background-color: #ffffff;
+	color: black;
+}
+
+.title > h1 {
+	font-size: 4em;
+	font-family: 'Merriweather', serif;
+	font-weight: 700;
+
+}
+
+.bodytext {
+	max-width: 40em;
+	margin: 0 auto;
+	line-height: 2em;
+	font-size: 1.5em;
+	padding: 4em 1em;	
+	color: #555;
+	font-weight: 300;
+}
+
+.nav-link {
+	vertical-align: middle;
+}
+
+.navbar-talos {
+	margin-right: 10px;
+}
+
+#headerNav {
+	background-color: transparent;
+	width: 80%;
+	margin:1 0 auto;
+	font-size: 1.5em;
+}
+
+#navbarButton {
+	background-color: rgba(0, 0, 0, 0.7);
+	color: white;
+}
+
+#typed {
+	text-align: center;
+	font-size: 1.75em;
+}
+
+.typed-cursor {
+	font-size: 1.75em;
+}
